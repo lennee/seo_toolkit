@@ -1,0 +1,7 @@
+ipwhois
+requests
+python-whois
+hyper
+beautifulsoup4
+pandas
+aiohttp
